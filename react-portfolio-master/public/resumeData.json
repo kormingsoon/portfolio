@@ -1,0 +1,102 @@
+{
+  "main": {
+    "name": "Kor Ming Soon | 许明顺",
+    "occupation": "Year 2 Student - National University Of Singapore（NUS) | 新加坡国立大学",
+    "description": "Majoring in Computer Science and Mathematics | 电脑科学和数学",
+    "image": "kormingsoon.jpg",
+    "bio": "My name is Kor Ming Soon. I enjoy reading books, particularly non-fiction books. I am interested in entrepreneurship, investing and teaching. My favourite book this year is 'The Ride Of A Lifetime' - Robert Iger.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "kormingsoon@gmail.com",
+    "phone": "+65 8222 2716",
+    "website": "https://www.linkedin.com/in/ming-soon-kor-2385aa130/",
+    "resumedownload": "https://drive.google.com/file/d/1hwzij-jSlUghrNXkaAA1RrvATNiC9KEV/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ming-soon-kor-2385aa130/",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "These are the some of skills which I am proficient in!",
+    "education": [
+      {
+        "school": "National University of Singapore",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "Expected Graduation: August 2023",
+        "description": [ "• Current GPA: 4.8/5.0", "• NUS Entrepreneurship Society"]
+      },
+      {
+        "school": "Catholic Junior College",
+        "degree": "Science Faculty",
+        "graduated": "December 2016",
+        "description": ["• Class of 2016 Science Valedictorian", "• Leadership & Service Award (LSA) by Outward Bound Singapore", "• Bernard Chen Memorial Award (Outstanding Student Award)"]
+      }
+    ],
+    "work": [
+      {
+        "company": "NUS Information Technology",
+        "title": "Dev Ops Engineer Intern",
+        "years": "Winter: Dec 2019 - Jan 2020 | Summer: May 2020 - Aug 2020",
+        "description": ["• Creation of Performance Evaluation Metrics system for hosted applications", "• Development of CI/CD tools to automate hosting of Web Application", "• Reduce deployment time needed to host web applications on AWS"]
+      },
+      {
+        "company": "NUS School Of Computing",
+        "title": "Teaching Assistant",
+        "years": "Jan 2020 - Present",
+        "description": ["• AY19/20: IS1103", "• AY20/21: IS1103, CS2030(S)"]
+      },
+      {
+        "company": "Roboto Coding Academy",
+        "title": "Business Development Executive",
+        "years": "Jan 2019 - Present",
+        "description": ["• Led creation of B2B Standard Operating Procedure (SOP) & Sales Metric","• Generated an approximate S$40,000 revenue during tenure"]
+      }
+    ],
+    "project" : [
+      {
+        "projectTitle" : "NUS Got Space? - Hack&Roll 2020 Winner",
+        "link": "https://devpost.com/software/nus-got-space",
+        "desc" : "Analysing WiFi Data to determine study population density",
+        "description" : ["• Telegram Chatbot informing students of crowd levels in studying spots (amongst > 100 teams)", "• Scrapping of WiFi data obtained via WiFi routers stored in MySQL", "• Analysis of data using and representation using MatPlotLib"],
+        "years" : "Jan 2020",
+        "skills" : ["Python", "Telegram Bot API", "MatPlotLib"]
+      },
+      {
+        "projectTitle" : "PropertyFree",
+        "link" : "https://github.com/AY2021S1-CS2103-W14-1/tp",
+        "desc" : "CLI Application for Property Agents to track clients and properties.",
+        "description" : ["• Overhaul of User Interface", "• Implementation of several functions for new entities"],
+        "years" : "Sept 2020 - Nov 2020",
+        "skills" : ["Java", "GitHub", "JavaFx"]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "100%"
+      },
+      {
+        "name": "Elastic Search",
+        "level": "70%"
+      },
+      {
+        "name": "Terraform",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL - looking to improve!",
+        "level": "40%"
+      }
+    ]
+  }
+}
